@@ -1,0 +1,15 @@
+img {
+    height: 200px;
+    width: 150px;
+    display: inline;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategray;
+}
+
+.intro {
+    text-align: left;
+    max-width: 400px;
+}
